@@ -1,0 +1,16 @@
+PODS:
+  - MVCarouselCollectionView (1.0.5)
+  - PageController (0.3.1)
+  - PullToRefresher (1.2)
+
+DEPENDENCIES:
+  - MVCarouselCollectionView
+  - PageController
+  - PullToRefresher (~> 1.2)
+
+SPEC CHECKSUMS:
+  MVCarouselCollectionView: 4da0a8d98953c7636e416a573c046ee2742207f1
+  PageController: 21843ffce26e77e5d141ed0639da8a11cfbcac5b
+  PullToRefresher: 9b8c5cdd9b37de688d7377af9c4c132efb475094
+
+COCOAPODS: 0.39.0
